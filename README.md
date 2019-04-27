@@ -5,7 +5,9 @@ During the internship for one month you would be closing my open source work tic
 
 ## During Interview / Selection Phase
 
-### Close minimum 9 tickets from
+### Independent Test
+
+#### Close minimum 9 tickets from in your free time
 
 - https://github.com/tapaswenipathak/Open-Source-Internships/issues
 - https://github.com/tapaswenipathak/Photography-Competitions/issues
@@ -23,4 +25,15 @@ During the internship for one month you would be closing my open source work tic
 
 *Just making sure you know GitHub. My open source work is on GitHub.*
 
-I will reach you w/ further information.
+### Work w/ @tapaswenipathak
+
+- I will reach you w/ further details / a scheduled meeting.
+- You submit one month timeline/plan.
+
+*The tasks would only be shared w/ the selected intern*.
+
+## Work phase
+
+- Follow the timeline you create, work w/ @tapaswenipathak if you need anything, she
+would be working w/ you in this month just on different tasks as per her schedule.
+- Daily mail sync up (mornings). Meeting only if required.
