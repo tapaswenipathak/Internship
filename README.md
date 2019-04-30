@@ -47,6 +47,21 @@ During the internship for one month you would be closing my open source work tic
 *Follow proper English and casing while creating a pull request.* *PR slang means pull
 request, feel free creating a ticket on GitHub or tweeting at me if you have any questions.*
 
+After completing tasks
+
+- Create a PR as
+  - Name as heading
+  - Description should have
+     - Name
+     - Mail id
+     - Tickets closed
+     - PRs created
+     - Timezone
+     - Independent side projects work/writeup
+     - Timeline doc
+     - Channel availability
+     - Daily meeting preffered timing
+
 ### Work w/ @tapaswenipathak
 
 - I will reach you w/ further details / a scheduled meeting.
