@@ -9,6 +9,8 @@ During the internship for one month you would be closing my open source work tic
 
 #### Close minimum 9 tickets from in your free time
 
+The tasks are having `internship` label.
+
 - https://github.com/tapaswenipathak/Open-Source-Internships/issues
   - You can add any internship you know or close any open ticket.
   - Write `Fix #ticket_number` in the description of the PR while closing any open ticket.
