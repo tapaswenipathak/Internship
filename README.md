@@ -49,6 +49,8 @@ The tasks are having `internship` label.
 *Follow proper English and casing while creating a pull request.* *PR slang means pull
 request, feel free creating a ticket on GitHub or tweeting at me if you have any questions.*
 
+#### PR Template
+
 After completing tasks
 
 - Create a PR as
@@ -76,3 +78,5 @@ After completing tasks
 - Follow the timeline you create, work w/ @tapaswenipathak if you need anything, she
 would be working w/ you in this month just on different tasks as per her schedule.
 - Daily mail sync up (mornings). Meeting only if required.
+
+**If you have any questions please discuss on GitHub, feel free re-pinging if I miss responding.**
