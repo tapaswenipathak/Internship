@@ -2,5 +2,5 @@
 
 * [Github](https://github.com/nikitauday)
 
-* [nikitauday.mec@gmail.com]
+[* Email](nikitauday.mec@gmail.com)
 
