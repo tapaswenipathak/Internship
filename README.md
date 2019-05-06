@@ -79,4 +79,4 @@ After completing tasks
 would be working w/ you in this month just on different tasks as per her schedule.
 - Daily mail sync up (mornings). Meeting only if required.
 
-**If you have any questions please discuss on GitHub, feel free re-pinging if I miss responding.**
+***If you have any questions please discuss on GitHub, feel free re-pinging if I miss responding.***
