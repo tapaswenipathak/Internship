@@ -49,6 +49,13 @@ The tasks are having `internship` and the technology label.
 *Follow proper English and casing while creating a pull request.* *PR slang means pull
 request, feel free creating a ticket on GitHub or tweeting at me if you have any questions.*
 
+#### Scheduling calls
+
+If you are interested in the internship, please book a slot using https://calendly.com/tapaswenipathak.
+
+If you have [internet issues](https://gyazo.com/e006580e3ee8d1d3f57a6e10ac19569c) just drop a ping, I will call you.
+
+
 #### PR Template
 
 After completing tasks
