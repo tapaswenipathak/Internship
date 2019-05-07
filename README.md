@@ -86,4 +86,5 @@ After completing tasks
 would be working w/ you in this month just on different tasks as per her schedule.
 - Daily mail sync up (mornings). Meeting only if required.
 
+I have listed few internship projects as [tickets](https://github.com/tapaswenipathak/Internship/issues) in this repository.
 **If you have any questions please discuss on GitHub, feel free re-pinging if I miss responding.**
