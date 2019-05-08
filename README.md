@@ -43,10 +43,9 @@ The tasks are having `internship` and the technology label.
   - Write `Fix #ticket_number` in the description of the PR while closing any open ticket.
 - https://github.com/OpenSourceHelpCommunity
   - Write `Fix #ticket_number` in the description of the PR while closing any open ticket present under the organisation.
-- https://github.com/tapaswenipathak/API-list/issues
+- https://github.com/tapaswenipathak/Internship-project-tasks/issues
   - Write `Fix #ticket_number` in the description of the PR while closing any open ticket.
-- https://github.com/tapaswenipathak/ML-tasks/issues
-  - Write `Fix #ticket_number` in the description of the PR while closing any open ticket.
+
 
 *Just making sure you know GitHub. My open source work is on GitHub.*
 
