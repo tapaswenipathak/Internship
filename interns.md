@@ -2,12 +2,12 @@
 -mamtashukla555@gmail.com
 
 Tickets Closed
--under progress
+- under progress
 
 PR Closed
--under progress 
+- under progress 
 
-Timezone -IST
+Timezone - IST
 
 Independent Work/WriteUp
 
@@ -21,8 +21,10 @@ Timeline Doc
 
 Channel Availibity
 
--5:00 PM to 1:00 AM (https://calendly.com/mamtashukla)
--Also available on IRC freenode #Kernelnewbies and #dri-devel as Mamta_ 
+- 5:00 PM to 1:00 AM (https://calendly.com/mamtashukla)
+
+- Also available on IRC freenode #Kernelnewbies and #dri-devel as Mamta_ 
+
 
 Daily Meeting Preferred Timing
 
