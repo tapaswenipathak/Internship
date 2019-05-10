@@ -60,12 +60,13 @@ If you are interested in the internship, please book a slot using https://calend
 
 If you have [internet issues](https://gyazo.com/e006580e3ee8d1d3f57a6e10ac19569c) just drop a ping, I will call you.
 
+I add tasks after calls, please feel free in closing any in the area you know about.
+You would be opening PR following the [PR template](https://github.com/tapaswenipathak/Internship#pr-template).
 
 #### PR Template
 
-After completing tasks
-
-- Create a PR as
+- Description of the PR should have
+  - file interns.md, format `Name [\github-username\]\(github-username-url\)`
   - Name as heading
   - Description should have
      - Name
@@ -75,8 +76,8 @@ After completing tasks
      - Timezone
      - Independent side projects work/writeup
      - Timeline doc
-     - Channel availability
-     - Daily meeting preffered timing
+     - Channel availability (Calendly url)
+     - Daily meeting preffered timing (Calendly url)
 
 ### Work w/ @tapaswenipathak
 
