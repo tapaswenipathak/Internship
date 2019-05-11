@@ -1,0 +1,12 @@
+- [ ] file interns.md, format Name [\github-username\]\(github-username-url\)
+- [ ] Name as heading
+- [ ] Description should have
+- [ ] Name
+- [ ] Mail id
+- [ ] Tickets closed
+- [ ] PRs created
+- [ ] Timezone
+- [ ] Independent side projects work/writeup
+- [ ] Timeline doc
+- [ ] Channel availability (Calendly url)
+- [ ] Daily meeting preffered timing (Calendly url)
