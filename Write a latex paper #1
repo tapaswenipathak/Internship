@@ -1,0 +1,18 @@
+\documentclass[12pt, letterpaper, twoside]{article}
+\usepackage[utf8]{inputenc}
+ 
+\title{First document}
+\author{Hubert Farnsworth \thanks{funded by the ShareLaTeX team}}
+\date{February 2014}
+ 
+\begin{document}
+ 
+\begin{titlepage}
+\maketitle
+\end{titlepage}
+ 
+In this document some extra packages and parameters
+were added. There is an encoding package
+and pagesize and fontsize parameters.
+ 
+\end{document}
