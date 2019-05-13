@@ -3,6 +3,8 @@ Open Source Internship
 
 During the internship for one month you would be closing my open source work tickets. Please read the details -
 
+Multiple vacancy per internship, minimum stipend 19k, negotiable. 
+
 ## During Interview / Selection Phase
 
 ### Independent Test
