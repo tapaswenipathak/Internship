@@ -1,9 +1,18 @@
 Open Source Internship
 ----------------------
 
-During the internship for one month you would be closing my open source work tickets. Please read the details -
+## Internship Information
 
-Multiple vacancy per internship, minimum stipend 19k, negotiable. 
+Duration - one month.
+
+Stipend - 19k, negotiable.
+
+Vacancies - Multiple
+
+Location - AoE/Home
+
+## Job postings
+
 
 ## During Interview / Selection Phase
 
