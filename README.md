@@ -79,6 +79,7 @@ You would be opening PR following the [PR template](https://github.com/tapasweni
 If you are stuck on a thing after spending time, please feel free in scheduling a call https://calendly.com/tapaswenipathak.
 If I miss answering any question, please post on the ticket or just ping @tapaswenipathak on GitHub.
 
+Please feel free in rescheduling the call on time if you are unavailable, no need joining the call, I miss my commute at times.
 
 #### PR Template
 
