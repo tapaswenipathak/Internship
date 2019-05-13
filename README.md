@@ -94,6 +94,12 @@ If I miss answering any question, please post on the ticket or just ping @tapasw
 
 *The tasks would only be shared w/ the selected intern*.
 
+## Campus Ambassador
+
+If you get hired + if you are a campus ambassador you will get 9% increase in the stipend.
+
+Campus ambassador should write the information available in this repository in the DLs/mailing list of their colleges/universities.
+
 ## Work phase
 
 - Follow the timeline you create, work w/ @tapaswenipathak if you need anything, she
