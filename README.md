@@ -58,7 +58,7 @@ The tasks are having `internship` and the technology label.
 *Follow proper English and casing while creating a pull request.* *PR slang means pull
 request, feel free creating a ticket on GitHub or tweeting at me if you have any questions.*
 
-#### Scheduling calls
+## Scheduling calls
 
 If you are interested in the internship, please book a slot using https://calendly.com/tapaswenipathak.
 
@@ -99,6 +99,8 @@ If I miss answering any question, please post on the ticket or just ping @tapasw
 If you get hired + if you are a campus ambassador you will get 9% increase in the stipend.
 
 Campus ambassador should write the information available in this repository in the DLs/mailing list of their colleges/universities.
+
+I have lots of goodies from different conferences, events, meetups, competitions, mentorship programs, that I don't use; diaries, pens, computer stickers, bags, computer accessories, just let me know.
 
 ## Work phase
 
