@@ -12,6 +12,6 @@ Anurag Sarkar [anuragsarkar](https://github.com/anuragsarkar/Internship/new/inte
             http://udghoshlive.com/
      - [ ] Timeline doc
      - [ ] Channel availability 
-            - [ ](https://calendly.com/anuragsarkar19)
+            (https://calendly.com/anuragsarkar19)
      - [ ] Daily meeting preffered timing
-            - [ ] (https://calendly.com/anuragsarkar19) 9:00 PM
+            (https://calendly.com/anuragsarkar19) 9:00 PM
