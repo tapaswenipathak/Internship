@@ -7,11 +7,12 @@ Anurag Sarkar [anuragsarkar](https://github.com/anuragsarkar/Internship/new/inte
      - [ ] Timezone
             IST
      - [ ] Independent side projects work/writeup
-            Currently working as Web Developer for Budli.in Worked on static website & wordpress few are:- 
-            http://stallionsgroup.in
-            http://udghoshlive.com/
+            -Currently working as Web Developer for Budli.in.
+            -Worked on static website & wordpress few are:- 
+               -http://stallionsgroup.in
+               -http://udghoshlive.com/
      - [ ] Timeline doc
      - [ ] Channel availability 
-            - [ ](calendly.com/anuragsarkar19)
+            - (calendly.com/anuragsarkar19)
      - [ ] Daily meeting preffered timing
-            - [ ](calendly.com/anuragsarkar19) 9:00 PM
+            - (calendly.com/anuragsarkar19) 9:00 PM
