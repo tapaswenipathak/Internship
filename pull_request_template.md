@@ -1,8 +1,7 @@
-- [ ] file interns.md, format Name [\github-username\]\(github-username-url\)
-- [ ] Name as heading
-- [ ] Description should have
-     - [ ] Name
-     - [ ] Mail id
+- [ ] file interns.md, format Name [\swetajena98](https://github.com/swetajena98)
+
+     - [ ] Name:Sweta Jena
+     - [ ] Mail id : swetajena989@gmail.com
      - [ ] Tickets closed
      - [ ] PRs created
      - [ ] Timezone
