@@ -1,7 +1,7 @@
 Anurag Sarkar [anuragsarkar](https://github.com/anuragsarkar/Internship/new/intern)
 - [ ] Anurag Sarkar
 
-     - [ ] anuragsarkar9@gmail.com
+     - [ ] anuragsarkar19@gmail.com
      - [ ] Tickets closed
      - [ ] PRs created
      - [ ] Timezone
