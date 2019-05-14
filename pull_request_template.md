@@ -1,4 +1,4 @@
-- [ ] file interns.md, format Name [\swetajena98](https://github.com/swetajena98)
+- [ ] file interns.md, format Name [\swetajena98\]\(https://github.com/swetajena98\)
 
      - [ ] Name:Sweta Jena
      - [ ] Mail id : swetajena989@gmail.com
