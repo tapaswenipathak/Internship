@@ -1,4 +1,4 @@
-Open Source Internship
+# Open Source Internship
 ----------------------
 
 ## Internship Information
@@ -120,3 +120,15 @@ would be working w/ you in this month just on different tasks as per her schedul
 
 I have listed few internship projects as [tickets](https://github.com/tapaswenipathak/Internship/issues) in this repository.
 **If you have any questions please discuss on GitHub, feel free re-pinging if I miss responding.**
+
+
+
+# Field Interns
+
+I am hiring field interns. 
+
+You should know the local language, should be decent in talking, energetic, fearless. 
+
+You would be collecting information from police stations, courts, NGOs, restricted areas, villages. Every intern per locality assigned information collected would be given a 9k stipend, negotiable. You would be remibursed for cycle commute. Any Indian government permission required would be on me.
+
+I am hiring people from remote areas, please help me in reaching out people who live in remote areas by letting the people you know, know.
