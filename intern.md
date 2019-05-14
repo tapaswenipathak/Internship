@@ -1,5 +1,6 @@
 Anurag Sarkar [anuragsarkar](https://github.com/anuragsarkar/Internship/new/intern)
 
+     
      - [ ] anuragsarkar19@gmail.com
      - [ ] Tickets closed
      - [ ] PRs created
@@ -12,4 +13,4 @@ Anurag Sarkar [anuragsarkar](https://github.com/anuragsarkar/Internship/new/inte
      - [ ] Timeline doc
      - [ ] Channel availability (calendly.com/anuragsarkar19)
      - [ ] Daily meeting preffered timing
-            - [ ] 9PM (calendly.com/anuragsarkar19)
+            - [ ]9PM (calendly.com/anuragsarkar19)
