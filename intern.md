@@ -15,8 +15,8 @@ Anurag Sarkar [anuragsarkar](https://github.com/anuragsarkar/Internship/new/inte
             (https://calendly.com/anuragsarkar19)
      - [ ] Daily meeting preffered timing
             (https://calendly.com/anuragsarkar19) 9:00 PM
-     - [ ]  Issues I will be working on
      
+     ##  Issues I will be working on
             1. [Add PR Template](https://github.com/tapaswenipathak/Photography-Competitions/issues/8)
             
             2. [Add Photo Walks](https://github.com/tapaswenipathak/Photography-Competitions/issues/11)
