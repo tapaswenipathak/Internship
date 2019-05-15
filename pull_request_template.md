@@ -1,11 +1,12 @@
 - [ ] file interns.md, format Name [\swetajena98\]\(https://github.com/swetajena98\)
-
-     - [ ] Name:Sweta Jena
+- [ ] SWETA JENA
+     - [ ] Name : Sweta Jena
      - [ ] Mail id : swetajena989@gmail.com
-     - [ ] Tickets closed
-     - [ ] PRs created
-     - [ ] Timezone
-     - [ ] Independent side projects work/writeup
-     - [ ] Timeline doc
-     - [ ] Channel availability (Calendly url)
-     - [ ] Daily meeting preffered timing (Calendly url)
+     - [ ] Tickets closed : will be updating soon
+     - [ ] PRs created : will be updating soon
+     - [ ] Timezone : IST
+     - [ ] Independent side projects work/writeup : currently working with werp india.
+           https://webl-design-3b7944.netlify.com
+     - [ ] Timeline doc : 
+     - [ ] Channel availability (Calendly url) : https://calendly.com/swetajena98
+     - [ ] Daily meeting preffered timing (Calendly url) : https://calendly.com/swetajena98/15min
