@@ -91,6 +91,8 @@ If I miss answering any question, please post on the ticket or just ping @tapasw
 
 Please feel free in rescheduling the call on time if you are unavailable, no need joining the call, I miss my commute at times.
 
+Please set up the call if you can join the call, no setting the call at odd schedule and than being unavailable.
+
 #### PR Template
 
 - Description of the PR should have
