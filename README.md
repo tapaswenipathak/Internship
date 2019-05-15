@@ -160,3 +160,17 @@ You should know the local language, should be decent in talking, energetic, fear
 You would be collecting information from police stations, courts, NGOs, restricted areas, villages. Every intern per locality assigned information collected would be given a 9k stipend, negotiable. You would be remibursed for cycle commute. Any Indian government permission required would be on me.
 
 I am hiring people from remote areas, please help me in reaching out people who live in remote areas by letting the people you know, know.
+
+# Research Internship
+
+Duration - one month.
+
+Stipend - 19k, negotiable.
+
+Vacancies - Multiple
+
+Location - AoE/Home
+
+I will penning the ideas/topics under https://github.com/alice-sieve org.
+
+Research intern should work on any tasks from the above list.
