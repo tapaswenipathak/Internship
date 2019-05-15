@@ -76,6 +76,8 @@ If you have [internet issues](https://gyazo.com/e006580e3ee8d1d3f57a6e10ac19569c
 I add tasks after calls, please feel free in closing any in the area you know about.
 You would be opening PR following the [PR template](https://github.com/tapaswenipathak/Internship#pr-template).
 
+**Tickets I open you can find code repositories for them on my GitHub, feel free in using code repositories, no reason you should waste time. Just get the tickets closed.**
+
 If you are stuck on a thing after spending time, please feel free in scheduling a call https://calendly.com/tapaswenipathak.
 If I miss answering any question, please post on the ticket or just ping @tapaswenipathak on GitHub.
 
