@@ -11,6 +11,8 @@ Vacancies - Multiple
 
 Location - AoE/Home
 
+Project list - https://github.com/tapaswenipathak/Internship/issues
+
 ## Job postings
 
 
