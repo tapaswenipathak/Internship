@@ -7,33 +7,36 @@ Anurag Sarkar [anuragsarkar](https://github.com/anuragsarkar/Internship/new/inte
      - [ ] Timezone
             IST
      - [ ] Independent side projects work/writeup
-            -[ ] Currently working as Web Developer for Budli.in Worked on static website & wordpress few are:- 
-            http://stallionsgroup.in
-            http://udghoshlive.com/
-     - [ ] Timeline doc
+     
+          Currently working as Web Developer for Budli.in. Worked on static website & wordpress few are:- 
+          
+          1. http://stallionsgroup.in
+          2. http://udghoshlive.com/ 
+                 
      - [ ] Channel availability 
             (https://calendly.com/anuragsarkar19)
      - [ ] Daily meeting preffered timing
             (https://calendly.com/anuragsarkar19) 9:00 PM
      
      ##  Issues I will be working on
-            1. [Add PR Template](https://github.com/tapaswenipathak/Photography-Competitions/issues/8)
             
-            2. [Add Photo Walks](https://github.com/tapaswenipathak/Photography-Competitions/issues/11)
+    1. [Add PR Template](https://github.com/tapaswenipathak/Photography-Competitions/issues/8)
             
-            3. [Add theme](https://github.com/tapaswenipathak/Photography-Competitions/issues/6)
+    2. [Add Photo Walks](https://github.com/tapaswenipathak/Photography-Competitions/issues/11)
             
-            4. [Add theme](https://github.com/tapaswenipathak/Research-Paper-Publications/issues/11)
+    3. [Add theme](https://github.com/tapaswenipathak/Photography-Competitions/issues/6)
             
-            5. [Add theme](https://github.com/tapaswenipathak/Women-Communities/issues/22)
+    4. [Add theme](https://github.com/tapaswenipathak/Research-Paper-Publications/issues/11)
+            
+    5. [Add theme](https://github.com/tapaswenipathak/Women-Communities/issues/22)
                       
-            6. [Add theme](https://github.com/tapaswenipathak/Scholarships-STEM/issues/9)
+    6. [Add theme](https://github.com/tapaswenipathak/Scholarships-STEM/issues/9)
             
-            7. [Add mail me option](https://github.com/tapaswenipathak/Scholarships-STEM/issues/8)
+    7. [Add mail me option](https://github.com/tapaswenipathak/Scholarships-STEM/issues/8)
             
-            8. [Design](https://github.com/tapaswenipathak/Internship-project-tasks/issues/5)
+    8. [Design](https://github.com/tapaswenipathak/Internship-project-tasks/issues/5)
             
-            9. [Send SMS](https://github.com/tapaswenipathak/Internship-project-tasks/issues/3)
+    9. [Send SMS](https://github.com/tapaswenipathak/Internship-project-tasks/issues/3)
             
-            10. [I will select few more from this repo](https://github.com/tapaswenipathak/Internship-project-tasks/issues)       
+    10. [I will select few more from this repo](https://github.com/tapaswenipathak/Internship-project-tasks/issues) 
             
