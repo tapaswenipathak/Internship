@@ -16,14 +16,24 @@ Anurag Sarkar [anuragsarkar](https://github.com/anuragsarkar/Internship/new/inte
      - [ ] Daily meeting preffered timing
             (https://calendly.com/anuragsarkar19) 9:00 PM
      - [ ]  Issues I will be working on
-            ..* [Add PR Template](https://github.com/tapaswenipathak/Photography-Competitions/issues/8)
-            ..* [Add Photo Walks](https://github.com/tapaswenipathak/Photography-Competitions/issues/11)
-            ..* [Add theme](https://github.com/tapaswenipathak/Photography-Competitions/issues/6)
-            ..* [Add theme](https://github.com/tapaswenipathak/Research-Paper-Publications/issues/11)
-            ..* [Add theme](https://github.com/tapaswenipathak/Women-Communities/issues/22)
-            ..* [Add theme](https://github.com/tapaswenipathak/Scholarships-STEM/issues/9)
-            ..* [Add mail me option](https://github.com/tapaswenipathak/Scholarships-STEM/issues/8)
-            ..* [Design](https://github.com/tapaswenipathak/Internship-project-tasks/issues/5)
-            ..* [Send SMS](https://github.com/tapaswenipathak/Internship-project-tasks/issues/3)
-            ..* [I will select few more from this repo](https://github.com/tapaswenipathak/Internship-project-tasks/issues)       
+     
+            1. [Add PR Template](https://github.com/tapaswenipathak/Photography-Competitions/issues/8)
+            
+            2. [Add Photo Walks](https://github.com/tapaswenipathak/Photography-Competitions/issues/11)
+            
+            3. [Add theme](https://github.com/tapaswenipathak/Photography-Competitions/issues/6)
+            
+            4. [Add theme](https://github.com/tapaswenipathak/Research-Paper-Publications/issues/11)
+            
+            5. [Add theme](https://github.com/tapaswenipathak/Women-Communities/issues/22)
+                      
+            6. [Add theme](https://github.com/tapaswenipathak/Scholarships-STEM/issues/9)
+            
+            7. [Add mail me option](https://github.com/tapaswenipathak/Scholarships-STEM/issues/8)
+            
+            8. [Design](https://github.com/tapaswenipathak/Internship-project-tasks/issues/5)
+            
+            9. [Send SMS](https://github.com/tapaswenipathak/Internship-project-tasks/issues/3)
+            
+            10. [I will select few more from this repo](https://github.com/tapaswenipathak/Internship-project-tasks/issues)       
             
