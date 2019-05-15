@@ -1,3 +1,7 @@
+# Batches
+
+The initial interns round having interns per internship type will work from Sunday w/ me.
+
 # Open Source Internship
 ----------------------
 
@@ -177,6 +181,16 @@ I will penning the ideas/topics under https://github.com/alice-sieve org.
 
 Research intern should work on any tasks from the above list.
 
+# Django Internship
+----------------------
+
+Duration - one month.
+
+Stipend - 19k, negotiable.
+
+Vacancies - Multiple
+
+Location - AoE/Home
 
 All the internships are AoE/Remote, no sponsoring of work visas.
 Please no emails, no resume. Get on a call, close any 9 tickets, get on call writing the timeline.
