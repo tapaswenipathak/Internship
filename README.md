@@ -114,6 +114,28 @@ Campus ambassador should write the information available in this repository in t
 
 I have lots of goodies from different conferences, events, meetups, competitions, mentorship programs, that I don't use; diaries, pens, computer stickers, bags, computer accessories, just let me know.
 
+## Campus Ambassador post
+
+If you are campus ambassador please write the information as
+
+> Hi folks,
+
+> Tapasweni Pathak have multiple internship vacancies available -
+
+> - Open source interns
+> - Field interns
+> - Research interns
+> - Django intern
+> - University ambassadors
+
+> More information is present in internship repository [1]. If you
+are interested in any internship, you can schedule a call using
+https://calendly.com/tapaswenipathak,
+
+> [1] https://github.com/tapaswenipathak/Internship
+
+
+
 ## Work phase
 
 - Follow the timeline you create, work w/ @tapaswenipathak if you need anything, she
