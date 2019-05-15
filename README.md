@@ -179,3 +179,4 @@ Research intern should work on any tasks from the above list.
 
 
 All the internships are AoE/Remote, no sponsoring of work visas.
+Please no emails, no resume. Get on a call, close any 9 tickets, get on call writing the timeline.
