@@ -176,3 +176,6 @@ Location - AoE/Home
 I will penning the ideas/topics under https://github.com/alice-sieve org.
 
 Research intern should work on any tasks from the above list.
+
+
+All the internships are AoE/Remote, no sponsoring of work visas.
