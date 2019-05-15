@@ -125,6 +125,8 @@ I have listed few internship projects as [tickets](https://github.com/tapaswenip
 
 # Field Interns
 
+Location - AoE/Home
+
 I am hiring field interns. 
 
 You should know the local language, should be decent in talking, energetic, fearless. 
