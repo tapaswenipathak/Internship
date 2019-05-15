@@ -1,6 +1,6 @@
 # Batches
 
-The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday for timeline setting.
+The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday AoE for timeline setting.
 
 # Open Source Internship
 ----------------------
