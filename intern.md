@@ -26,7 +26,7 @@ Anurag Sarkar [anuragsarkar](https://github.com/anuragsarkar/Internship/new/inte
             
     3. [Add theme](https://github.com/tapaswenipathak/Photography-Competitions/issues/6)
             
-    4. [Add theme](https://github.com/tapaswenipathak/Research-Paper-Publications/issues/11)
+    4. [Add theme](https://github.com/tapaswenipathak/Research-Paper-Publications/issues/11) Closed
             
     5. [Add theme](https://github.com/tapaswenipathak/Women-Communities/issues/22)
                       
