@@ -1,6 +1,6 @@
 # Batches
 
-The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday AoE for timeline setting. Intern per round will get lesser stipend extra span than who join early, so applicants should focus on completing any 9 tasks asap. I won't be doing any internship meetings after Monday. I will upload a video, you can watch, know what you should be doing, open a GitHub ticket if you have any question. 
+The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday AoE for timeline setting. Intern per round will get lesser stipend extra span than who join early, so applicants should focus on completing any 9 tasks asap. I won't be doing any internship meetings after Monday. I will upload a video, you can watch, know what you should be doing, open a GitHub ticket if you have any question. Intern can serve in multiple internships.
 
 # Selected Intern
 
@@ -104,6 +104,10 @@ The tasks are having `internship` and the technology label.
 request, feel free creating a ticket on GitHub or tweeting at me if you have any questions.*
 
 If I miss any of the PRs please ping @tapaswenipathak. 
+
+## GitHub communication
+
+Please keep the communication on GitHub focused on the tickets/work.
 
 ## Scheduling calls
 
