@@ -11,6 +11,7 @@ The initial interns round having interns per internship type will work from Sund
 - You would write a day log. The day log should be public, you can send me that as information for daily morning updates.
 - You can setup a meeting if you are really stuck.
 - I will have a timeline w/ you and will work on just different issues. 
+- Intern should just focus on getting the assigned tickets closed. You can use open source. Let me know if you do.
 
 # Open Source Internship
 ----------------------
