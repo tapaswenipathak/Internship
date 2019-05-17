@@ -8,6 +8,8 @@ Feel free in submitting application without any call as well. You should
 - Create a PR using https://github.com/tapaswenipathak/Internship#pr-template
 - Close any 9 tickets from https://github.com/tapaswenipathak/Internship#close-minimum-9-tickets-from-in-your-free-time
 
+Let people you know, know https://github.com/tapaswenipathak/Internship#campus-ambassador. Use https://github.com/tapaswenipathak/Internship#campus-ambassador-post sample.
+
 # Selected Intern
 
 - Commit the timeline.
