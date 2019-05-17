@@ -27,6 +27,10 @@ These are strict timelines that I w/ you will be adhering. No focusing on when I
 - https://github.com/tapaswenipathak/Internship/issues/52 - Closed on 1/9/19.
 
 
+# Data Interns
+
+The data intern will work on collecting data on these topics from the internet. If you know any programming language, API, parsing, scraping, great, if no, manual. The data you collect will be used in https://github.com/tapaswenipathak/Internship/issues/52. You will given a stipend. I won't be helping you in any data collection task. 
+
 
 # Open Source Internship
 ----------------------
