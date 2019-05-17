@@ -20,7 +20,7 @@ Anurag Sarkar [anuragsarkar](https://github.com/anuragsarkar/Internship/new/inte
      
      ##  Issues I will be working on
             
-    1. [Add PR Template](https://github.com/tapaswenipathak/Photography-Competitions/issues/8)
+    1. [Add PR Template](https://github.com/tapaswenipathak/Photography-Competitions/issues/8) Closed
             
     2. [Add Photo Walks](https://github.com/tapaswenipathak/Photography-Competitions/issues/11)
             
