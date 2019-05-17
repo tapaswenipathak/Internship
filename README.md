@@ -2,6 +2,16 @@
 
 The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday AoE for timeline setting. Intern per round will get lesser stipend extra span than who join early, so applicants should focus on completing any 9 tasks asap. I won't be doing any internship meetings after Monday. I will upload a video, you can watch, know what you should be doing, open a GitHub ticket if you have any question. 
 
+# Selected Intern
+
+- Commit the timeline.
+- Get the paperwork signed.
+- Update the calendar.
+- Update the PR you created w/ a blog on how you closed the ticket you closed.
+- You would write a day log. The day log should be public, you can send me that as information for daily morning updates.
+- You can setup a meeting if you are really stuck.
+- I will have a timeline w/ you and will work on just different issues. 
+
 # Open Source Internship
 ----------------------
 
