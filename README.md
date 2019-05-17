@@ -211,7 +211,7 @@ Location - AoE/Home
 
 I will penning the ideas/topics under https://github.com/alice-sieve org.
 
-Research intern should work on any tasks from the above list.
+Research intern should work on any tasks from the above list. You should know latex.
 
 # Django Internship
 ----------------------
