@@ -2,6 +2,12 @@
 
 The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday AoE for timeline setting. Intern per round will get lesser stipend extra span than who join early, so applicants should focus on completing any 9 tasks asap. I won't be doing any internship meetings after Monday. I will upload a video, you can watch, know what you should be doing, open a GitHub ticket if you have any question. Intern can work w/ me in multiple internships.
 
+# Repository information
+
+- Intern should submit the timelines in https://github.com/tapaswenipathak/Timelines, @tapaswenipathak will submit her timeline as well.
+- Intern should add a per day log in https://github.com/tapaswenipathak/Interns-day-log.
+- Intern can use https://github.com/tapaswenipathak/Interns-qna for writing any questions/help you need from @tapaswenipathak. 
+
 # Submitting Application
 
 Feel free in submitting application without any call as well. You should
