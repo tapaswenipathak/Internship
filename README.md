@@ -213,7 +213,7 @@ I am hiring field interns.
 
 You should know the local language, should be decent in talking, energetic, fearless. 
 
-You would be collecting information from police stations, courts, NGOs, restricted areas, villages. Every intern per locality assigned information collected would be given a 9k stipend, negotiable. You would be remibursed for cycle commute. Any Indian government permission required would be on me.
+You would be collecting information from police stations, courts, NGOs, restricted areas, villages. Every intern per locality assigned information collected would be given a 9k stipend, negotiable. You would be remibursed for cycle commute. If you like travelling in remote areas in your city, I will be funding the travel as well. Any Indian government permission required would be on me.
 
 I am hiring people from remote areas, please help me in reaching out people who live in remote areas by letting the people you know, know.
 
