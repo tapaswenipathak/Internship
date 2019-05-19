@@ -40,6 +40,9 @@ These are strict timelines that I w/ you will be adhering. No focusing on when I
 - https://github.com/tapaswenipathak/Internship/issues/21 - Closed on 1/8/19.
 - https://github.com/tapaswenipathak/Internship/issues/52 - Closed on 1/9/19.
 
+# Paid Open Source Task
+
+Earn upto cost label present per ticket. 
 
 # Data Interns
 
