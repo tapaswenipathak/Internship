@@ -31,14 +31,14 @@ Let people you know, know https://github.com/tapaswenipathak/Internship#campus-a
 
 These are strict timelines that I w/ you will be adhering. No focusing on when I review and merge the PRs you create, just open a PR and work on closing more assigned tickets. I will be involved w/ quite a few things, please bear w/ me.Feel free using me, focus on getting the tickets closed. I am just a call away if you get stuck. If you are selected you I trust you w/ the work you can put up.
 
-- https://github.com/tapaswenipathak/Internship/issues/39 - Closed on 1/8/19.
-- https://github.com/tapaswenipathak/Internship/issues/40 - Closed on 1/8/19.
-- https://github.com/tapaswenipathak/Internship/issues/41 - Closed on 1/8/19.
-- https://github.com/tapaswenipathak/Internship/issues/42 - Closed on 1/8/19.
-- https://github.com/tapaswenipathak/Internship/issues/24 - Closed on 1/8/19.
-- https://github.com/tapaswenipathak/Internship/issues/43 - Closed on 1/8/19.
-- https://github.com/tapaswenipathak/Internship/issues/21 - Closed on 1/8/19.
-- https://github.com/tapaswenipathak/Internship/issues/52 - Closed on 1/9/19.
+- https://github.com/tapaswenipathak/Internship/issues/39 - Closed on 1/6/19.
+- https://github.com/tapaswenipathak/Internship/issues/40 - Closed on 1/6/19.
+- https://github.com/tapaswenipathak/Internship/issues/41 - Closed on 1/6/19.
+- https://github.com/tapaswenipathak/Internship/issues/42 - Closed on 1/6/19.
+- https://github.com/tapaswenipathak/Internship/issues/24 - Closed on 1/6/19.
+- https://github.com/tapaswenipathak/Internship/issues/43 - Closed on 1/6/19.
+- https://github.com/tapaswenipathak/Internship/issues/21 - Closed on 1/6/19.
+- https://github.com/tapaswenipathak/Internship/issues/52 - Closed on 1/7/19.
 
 # Paid Open Source Task
 
