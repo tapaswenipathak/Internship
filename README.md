@@ -40,6 +40,13 @@ These are strict timelines that I w/ you will be adhering. No focusing on when I
 - https://github.com/tapaswenipathak/Internship/issues/21 - Closed on 1/6/19.
 - https://github.com/tapaswenipathak/Internship/issues/52 - Closed on 1/7/19.
 
+
+# Social Media Intern
+
+You would be handling social media channels. If you are creative, entertaining, funny, write exhilirating tweets/posts join as social media intern! :boom:
+
+Location - AoE/Home
+
 # Paid Open Source Task
 
 Earn upto cost label present per ticket. 
