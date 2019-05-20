@@ -1,12 +1,12 @@
 - [ ] file interns.md, format Name [\github-username\]\(github-username-url\)
 - [ ] Name as heading
 - [ ] Description should have
-     - [ ] Name
-     - [ ] Mail id
-     - [ ] Tickets closed
-     - [ ] PRs created
-     - [ ] Timezone
-     - [ ] Independent side projects work/writeup
-     - [ ] Timeline doc
-     - [ ] Channel availability (Calendly url)
-     - [ ] Daily meeting preffered timing (Calendly url)
+     - [ ] Name : Dipti Gandhi
+     - [ ] Mail id: gandhidipti.s@gmail.com
+     - [ ] Tickets closed : will start soon
+     - [ ] PRs created : Created one PR => https://github.com/women-coders/women-coders.org/pull/2
+     - [ ] Timezone: +5:30
+     - [ ] Independent side projects work/writeup : https://github.com/diptigandhi24/SuperHeroCards , https://github.com/diptigandhi24/Redux-thunk-challenge
+     - [ ] Timeline doc : (Don't know what you mean)
+     - [ ] Channel availability (Calendly url) : https://calendly.com/gandhidipti/opensourceavailbility
+     - [ ] Daily meeting preffered timing (Calendly url) : https://calendly.com/gandhidipti/everyday-call?month=2019-05
