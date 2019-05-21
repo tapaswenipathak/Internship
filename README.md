@@ -49,7 +49,10 @@ Location - AoE/Home
 
 # Paid Open Source Task
 
-Earn upto cost label present per ticket. 
+- https://github.com/alice-sieve/Non-Tech-Tasks/issues/1
+- https://github.com/tapaswenipathak/JHEPC-19/issues/18
+- https://github.com/tapaswenipathak/JHEPC-19/issues/19
+
 
 # Data Interns
 
