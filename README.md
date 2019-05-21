@@ -10,6 +10,8 @@ The initial interns round having interns per internship type will work from Sund
 
 # Submitting Application
 
+https://youtu.be/J8QxCjCyvFI
+
 Feel free in submitting application without any call as well. You should
 - Create a PR using https://github.com/tapaswenipathak/Internship#pr-template
 - Close any 9 tickets from https://github.com/tapaswenipathak/Internship#close-minimum-9-tickets-from-in-your-free-time
