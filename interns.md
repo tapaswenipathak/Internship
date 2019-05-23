@@ -8,7 +8,7 @@ Mail id: yayahmohammed@gmail.com<br>
 Tickets closed: None yet<br>
 PRs created: 1<br>
 Timezone: CAT (central Africa Time)<br>
-Independent side projects work/writeup: none yet <br>
+Independent side projects work/writeup: gdgilorin.dev<br>
 Timeline doc: N/A<br>
 Channel availability (Calendly url): yes<br>
 Daily meeting preffered timing (Calendly url):
