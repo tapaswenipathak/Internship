@@ -11,4 +11,5 @@ Timezone: CAT (central Africa Time)
 Independent side projects work/writeup: none yet 
 Timeline doc: N/A
 Channel availability (Calendly url): yes
-Daily meeting preffered timing (Calendly url): 
+Daily meeting preffered timing (Calendly url):
+
