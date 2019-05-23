@@ -52,8 +52,10 @@ Location - AoE/Home
 # Paid Open Source Task
 
 - https://github.com/alice-sieve/Non-Tech-Tasks/issues/1
+- https://github.com/tapaswenipathak/Bot-list/issues/4
 - https://github.com/tapaswenipathak/JHEPC-19/issues/18
 - https://github.com/tapaswenipathak/JHEPC-19/issues/19
+- https://github.com/tapaswenipathak/TheLesserNumber/issues/33
 
 
 # Data Interns
