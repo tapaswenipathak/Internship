@@ -1,3 +1,5 @@
+If you are interested in the internship please find the information in **submitting application**. Just do the listed things and I will call you if you are in as an intern. If you have any questions, feel free mailing me or setting a call. I have added a YouTube video describing the things I have written as well.
+
 # Batches
 
 The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday AoE for timeline setting. Intern per round will get lesser stipend extra span than who join early, so applicants should focus on completing any 9 tasks asap. I won't be doing any internship meetings after Monday. I will upload a video, you can watch, know what you should be doing, open a GitHub ticket if you have any question. Intern can work w/ me in multiple internships.
