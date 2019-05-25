@@ -4,6 +4,15 @@ If you are interested in the internship please find the information in **submitt
 
 The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday AoE for timeline setting. Intern per round will get lesser stipend extra span than who join early, so applicants should focus on completing any 9 tasks asap. I won't be doing any internship meetings after Monday. I will upload a video, you can watch, know what you should be doing, open a GitHub ticket if you have any question. Intern can work w/ me in multiple internships.
 
+This rounds interns
+- @anuragsarkar
+- @Armorer96
+- @prondubuisi
+- @sakshivij
+- @sujaykumarreddy
+
+Their [timelines](https://github.com/tapaswenipathak/Timelines).
+
 # Repository information
 
 - Intern should submit the timelines in https://github.com/tapaswenipathak/Timelines, @tapaswenipathak will submit her timeline as well.
@@ -50,6 +59,11 @@ These are strict timelines that I w/ you will be adhering. No focusing on when I
 You would be handling social media channels. If you are creative, entertaining, funny, write exhilirating tweets/posts join as social media intern! :boom:
 
 Location - AoE/Home
+
+# GitPay
+
+I need help w/ publishing blog posts, I have created a Gitpay task https://gitpay.me/#/task/220 for https://github.com/tapaswenipathak/Internship/issues/61. As soon as you complete the 19k blog posts 90USD would be transferred.
+I will give the blog post zip in text format w/ diagrams and pics. You should properly format them and publish on my blog http://tapaswenipathak.blog/.
 
 # Paid Open Source Task
 
