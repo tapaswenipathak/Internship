@@ -62,8 +62,10 @@ Location - AoE/Home
 
 # GitPay
 
-I need help w/ publishing blog posts, I have created a Gitpay task https://gitpay.me/#/task/220 for https://github.com/tapaswenipathak/Internship/issues/61. As soon as you complete the 19k blog posts 90USD would be transferred.
-I will give the blog post zip in text format w/ diagrams and pics. You should properly format them and publish on my blog http://tapaswenipathak.blog/.
+- https://gitpay.me/#/task/217
+- https://gitpay.me/#/task/218
+- https://gitpay.me/#/task/219
+- https://gitpay.me/#/task/220
 
 # Paid Open Source Task
 
