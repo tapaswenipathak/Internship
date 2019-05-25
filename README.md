@@ -67,6 +67,13 @@ Location - AoE/Home
 - https://gitpay.me/#/task/219
 - https://gitpay.me/#/task/220
 
+# BountySource
+
+- https://www.bountysource.com/issues/74352659-blogging
+- https://www.bountysource.com/issues/74432476-explore-https-aws-amazon-com-health-genomics
+- https://www.bountysource.com/issues/74431252-design-tasks
+- https://www.bountysource.com/issues/74432491-explore-https-aws-amazon-com-hpc
+
 # Paid Open Source Task
 
 - https://github.com/alice-sieve/Non-Tech-Tasks/issues/1
