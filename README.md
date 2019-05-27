@@ -167,7 +167,7 @@ Please keep the communication on GitHub focused on the tickets/work.
 
 ## Scheduling calls
 
-If you are interested in the internship, please book a slot using https://calendly.com/tapaswenipathak. Please make sure the voice in the hangout call works. I will be cancelling any call setup after Monday, the calendar is only open for interns.
+Calendar is only open for interns calendly.com/tapaswenipathak.
 
 If you have [internet issues](https://gyazo.com/e006580e3ee8d1d3f57a6e10ac19569c) just drop a ping, I will call you.
 
