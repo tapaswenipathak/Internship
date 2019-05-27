@@ -1,4 +1,5 @@
-If you are interested in the internship please find the information in https://github.com/tapaswenipathak/Internship#submitting-application. Just do the listed things and I will call you if you are in as an intern. If you have any questions, feel free mailing me or setting a call. I have added a YouTube video describing the things I have written as well.
+
+**If you are interested in any of the internship please find the information in https://github.com/tapaswenipathak/Internship#submitting-application. Just do the listed things and I will call you if you are in as an intern. If you have any questions, feel free mailing me or setting a call. I have added a YouTube video describing the things I have written as well.**
 
 # Batches
 
