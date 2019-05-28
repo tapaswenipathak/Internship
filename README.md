@@ -153,6 +153,14 @@ The tasks are having `internship` and the technology label.
   - Write `Fix #ticket_number` in the description of the PR while closing any open ticket.
 - https://github.com/tapaswenipathak/Bot-list/issues
   - Write `Fix #ticket_number` in the description of the PR while closing any open ticket.
+- https://github.com/alice-sieve/Linux-Kernel/issues
+  - Write `Fix #ticket_number` in the description of the PR while closing any open ticket.
+- https://github.com/alice-sieve/Open-Source/issues
+  - Write `Fix #ticket_number` in the description of the PR while closing any open ticket.
+- https://github.com/alice-sieve/Social-Research/issues
+  - Write `Fix #ticket_number` in the description of the PR while closing any open ticket.
+- https://github.com/alice-sieve/Market-Research/issues
+  - Write `Fix #ticket_number` in the description of the PR while closing any open ticket.
 
 
 *Just making sure you know GitHub. My open source work is on GitHub.*
