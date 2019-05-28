@@ -12,7 +12,7 @@ This rounds interns
 - @sakshivij
 - @sujaykumarreddy
 
-Their [timelines](https://github.com/tapaswenipathak/Timelines).
+Their [timelines](https://github.com/tapaswenipathak/Timelines). Failing submitting day log for multiple days, feel free leaving the internship. Daily updates are necessary. More information find in the paper work you signed.
 
 # Repository information
 
