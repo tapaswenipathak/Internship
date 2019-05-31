@@ -6,7 +6,7 @@
 The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday AoE for timeline setting. Intern per round will get lesser stipend extra span than who join early, so applicants should focus on completing any 9 tasks asap. I won't be doing any internship meetings after Monday. I will upload a video, you can watch, know what you should be doing, open a GitHub ticket if you have any question. Intern can work w/ me in multiple internships.
 
 This rounds interns
-- @anuragsarkar
+
 - @Armorer96
 - @prondubuisi
 - @sakshivij
@@ -53,6 +53,16 @@ These are strict timelines that I w/ you will be adhering. No focusing on when I
 - https://github.com/tapaswenipathak/Internship/issues/43 - Closed on 1/6/19.
 - https://github.com/tapaswenipathak/Internship/issues/21 - Closed on 1/6/19.
 - https://github.com/tapaswenipathak/Internship/issues/52 - Closed on 1/7/19.
+
+# Co-Photo Walker
+
+I am doing few photo walks this year in listed places/countries; my photography genre is chromatic, documentary, fine art, flora, macro, monochrome, portraits and street. If you are interested in joining let me know. I mostly have CFPs accepted in these regions or a speaker in univerisities so you would might adhere w/ my schedule. I will let you know the itinerary beforehand if you join me.
+
+- AF
+- PK
+- KP
+- ZA
+- South America 
 
 # Technical Blogger Intern
 
