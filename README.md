@@ -54,6 +54,9 @@ These are strict timelines that I w/ you will be adhering. No focusing on when I
 - https://github.com/tapaswenipathak/Internship/issues/21 - Closed on 1/6/19.
 - https://github.com/tapaswenipathak/Internship/issues/52 - Closed on 1/7/19.
 
+# Technical Writers
+
+I am hiring technical writers, you would work on my blog writing blog posts. I would give you the text and material, you should properly format and write it on my blog post. Stipend would be 9K for writing atleast 1900 blog post. Total blog post count is around 19000.
 
 # Social Media Intern
 
