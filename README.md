@@ -86,6 +86,7 @@ Location - AoE/Home
 - https://gitpay.me/#/task/218
 - https://gitpay.me/#/task/219
 - https://gitpay.me/#/task/220
+- https://gitpay.me/#/task/224
 
 # BountySource
 
@@ -93,6 +94,7 @@ Location - AoE/Home
 - https://www.bountysource.com/issues/74432476-explore-https-aws-amazon-com-health-genomics
 - https://www.bountysource.com/issues/74431252-design-tasks
 - https://www.bountysource.com/issues/74432491-explore-https-aws-amazon-com-hpc
+- https://www.bountysource.com/issues/74974628-linux-kernel-running-api-grep-commands
 
 # Paid Open Source Task
 
@@ -101,7 +103,7 @@ Location - AoE/Home
 - https://github.com/tapaswenipathak/JHEPC-19/issues/18
 - https://github.com/tapaswenipathak/JHEPC-19/issues/19
 - https://github.com/tapaswenipathak/TheLesserNumber/issues/33
-
+- https://www.bountysource.com/issues/74974628-linux-kernel-running-api-grep-commands
 
 # Data Interns
 
