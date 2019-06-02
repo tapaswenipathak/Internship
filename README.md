@@ -27,6 +27,7 @@ https://youtu.be/J8QxCjCyvFI
 Feel free in submitting application without any call as well. You should
 - Create a PR using https://github.com/tapaswenipathak/Internship#pr-template
 - Close any 9 tickets from https://github.com/tapaswenipathak/Internship#close-minimum-9-tickets-from-in-your-free-time
+- Close one task from https://github.com/tapaswenipathak/Internship-project-tasks/issues
 
 Let people you know, know https://github.com/tapaswenipathak/Internship#campus-ambassador. Use https://github.com/tapaswenipathak/Internship#campus-ambassador-post sample.'
 
