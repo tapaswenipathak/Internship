@@ -31,7 +31,7 @@ Feel free in submitting application without any call as well. You should
 
 Let people you know, know https://github.com/tapaswenipathak/Internship#campus-ambassador. Use https://github.com/tapaswenipathak/Internship#campus-ambassador-post sample.'
 
-Feel free in scheduling a call https://calendly.com/tapaswenipathak.
+~~ Feel free in scheduling a call https://calendly.com/tapaswenipathak.~~
 
 # Selected Intern
 
@@ -201,7 +201,7 @@ Please keep the communication on GitHub focused on the tickets/work.
 
 ## Scheduling calls
 
-Calendar is only open for interns calendly.com/tapaswenipathak.
+~~Calendar is only open for interns calendly.com/tapaswenipathak.~~
 
 If you have [internet issues](https://gyazo.com/e006580e3ee8d1d3f57a6e10ac19569c) just drop a ping, I will call you.
 
@@ -210,7 +210,7 @@ You would be opening PR following the [PR template](https://github.com/tapasweni
 
 **Tickets I open you can find code repositories for them on my GitHub, feel free in using code repositories, no reason you should waste time. Just get the tickets closed.**
 
-If you are stuck on a thing after spending time, please feel free in scheduling a call https://calendly.com/tapaswenipathak.
+~~If you are stuck on a thing after spending time, please feel free in scheduling a call https://calendly.com/tapaswenipathak.~~
 If I miss answering any question, please post on the ticket or just ping @tapaswenipathak on GitHub.
 
 Please feel free in rescheduling the call on time if you are unavailable, no need joining the call, I miss my commute at times.
@@ -262,9 +262,9 @@ If you are campus ambassador please write the information as
 > - Django intern
 > - University ambassadors
 
-> More information is present in internship repository [1]. If you
+> More information is present in internship repository [1]. ~~If you
 are interested in any internship, you can schedule a call using
-https://calendly.com/tapaswenipathak,
+https://calendly.com/tapaswenipathak,~~
 
 > [1] https://github.com/tapaswenipathak/Internship
 
