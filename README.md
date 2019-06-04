@@ -31,7 +31,7 @@ Feel free in submitting application without any call as well. You should
 
 Let people you know, know https://github.com/tapaswenipathak/Internship#campus-ambassador. Use https://github.com/tapaswenipathak/Internship#campus-ambassador-post sample.'
 
-~~ Feel free in scheduling a call https://calendly.com/tapaswenipathak.~~
+~~Feel free in scheduling a call https://calendly.com/tapaswenipathak.~~
 
 # Selected Intern
 
