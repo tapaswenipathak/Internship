@@ -37,6 +37,7 @@ Vacancies - Multiple
 Location - AoE/Home/Remote
 
 Tasks/Work is listed in https://github.com/alice-sieve/Research-Internship
+Reading list for interns https://github.com/alice-sieve/Interns-Reading-Material
 
 If interested, please get on a call https://calendly.com/tapaswenipathak
 
