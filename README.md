@@ -1,6 +1,20 @@
 
 **If you are interested in any of the internship please find the information in https://github.com/tapaswenipathak/Internship#submitting-application. Just do the listed things and I will call you if you are in as an intern. If you have any questions, feel free mailing me or setting a call. I have added a YouTube video describing the things I have written as well.**
 
+# Research Internship
+
+I am in dire need of research interns.
+Pitching is my work. If you work w/ me, you would be the co-writer.
+
+Duration - one month.
+
+Stipend - 19k, negotiable.
+
+Vacancies - Multiple
+
+Location - AoE/Home/Remote
+
+
 # Batches
 
 The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday AoE for timeline setting. Intern per round will get lesser stipend extra span than who join early, so applicants should focus on completing any 9 tasks asap. I won't be doing any internship meetings after Monday. I will upload a video, you can watch, know what you should be doing, open a GitHub ticket if you have any question. Intern can work w/ me in multiple internships.
@@ -293,19 +307,6 @@ You would be collecting information from police stations, courts, NGOs, restrict
 
 I am hiring people from remote areas, please help me in reaching out people who live in remote areas by letting the people you know, know.
 
-# Research Internship
-
-Duration - one month.
-
-Stipend - 19k, negotiable.
-
-Vacancies - Multiple
-
-Location - AoE/Home
-
-I will penning the ideas/topics under https://github.com/alice-sieve org.
-
-Research intern should work on any tasks from the above list. You should know latex.
 
 # Django Internship
 ----------------------
