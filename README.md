@@ -15,6 +15,7 @@ I would only work on research and writing for few months. Non research, non writ
 - [Campus Ambassador](#campus-ambassador)
 - [field-interns](#field-interns)
 - [Django Internship](#django-internship)
+- [Tester Internship](#tester-internship)
 
 For each internship -
 
@@ -24,6 +25,11 @@ For each internship -
 - Vacancies: Multiple
 
 I would only be available for Research Interns and Technical Blogger Intern.
+
+# Tester Internship
+
+Tester intern should test the tickets and code submitted by the interns. You should write test case as well. 
+
 
 # Code Reviewers Internship
 
