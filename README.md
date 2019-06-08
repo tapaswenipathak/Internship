@@ -5,7 +5,7 @@ I would only work on research and writing for few months. Non research, non writ
 
 # Internships
 
-- [Code Reviewers Internship](#code-reviewers-interns)
+- [Code Reviewers Internship](#code-reviewers-internship)
 - [Data Visualisation Internship](#data-visualisation-internship)
 - [Research Internship](#research-internship)
 - [Technical Blogger Intern](#technical-blogger-intern)
@@ -15,6 +15,15 @@ I would only work on research and writing for few months. Non research, non writ
 - [Campus Ambassador](#campus-ambassador)
 - [field-interns](#field-interns)
 - [Django Internship](#django-internship)
+
+For each internship -
+
+- Stipend: 19k
+- Duration: 1 Month
+- Location: AoE/Home/Remote
+- Vacancies: Multiple
+
+I would only be available for Research Interns and Technical Blogger Intern.
 
 # Code Reviewers Internship
 
@@ -356,7 +365,6 @@ I am hiring people from remote areas, please help me in reaching out people who 
 
 
 # Django Internship
-----------------------
 
 Duration - one month.
 
