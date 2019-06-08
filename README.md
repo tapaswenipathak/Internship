@@ -3,6 +3,10 @@
 
 I would only work on research and writing for few months. Non research, non writing intern would get their work reviewed from co-interns.
 
+# Code Reviewers Interns
+
+You can apply as an intern who would do code reviews. I am mostly on writing tickets and plan. Code interns would submit code and you should review the code. Intern Code Reviewers would be assigned per project. You can work on writing code for a project and can be intern code review for more project. You should know the technology that the intern is submitting the code in. No extra stipend if you are reviewing code. 
+
 # Data Visualisation Internship
 
 Any or all of these
