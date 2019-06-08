@@ -1,6 +1,8 @@
 
 **If you are interested in any of the internship please find the information in https://github.com/tapaswenipathak/Internship#submitting-application. Just do the listed things and I will call you if you are in as an intern. If you have any questions, feel free mailing me or setting a call. I have added a YouTube video describing the things I have written as well.**
 
+I would only work on research and writing for few months. Non research, non writing intern would get their work reviewed from co-interns.
+
 # Data Visualisation Internship
 
 Any or all of these
@@ -24,6 +26,8 @@ Location - AoE/Home/Remote
 If interested, please get on a call https://calendly.com/tapaswenipathak
 
 # Research Internship
+
+I will only be focusing on writing
 
 I am in dire need of research interns.
 Pitching is my work. If you work w/ me, you would be the co-writer.
