@@ -2,9 +2,7 @@ Calls worked better, if you are interested in any of these internship please boo
 
 Better and saves time, if you find the information in https://github.com/tapaswenipathak/Internship#submitting-application. Just do the listed things and I will call you if you are in as an intern. If you have any questions, feel free mailing me or setting a call. I have added a YouTube video describing the things I have written as well.
 
-Please think about me when you book these slots, I am sure the nice people would have thought these are day slots. :pray:
-
-![](https://i.gyazo.com/dd298868c1c7da2f87eb9346176eb98e.png)
+Make sure you are present in the meeting on time, feel free cancelling or rescheduling, make sure you do it on time.
 
 # Internships
 
