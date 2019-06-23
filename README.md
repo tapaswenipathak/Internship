@@ -47,6 +47,7 @@ Any or all of these
 - Pandas
 - Plotlib
 - Seaborn
+- tableau
 
 Duration - one month.
 
