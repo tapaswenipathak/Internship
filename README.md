@@ -20,8 +20,8 @@ Better and saves time, if you find the information in https://github.com/tapaswe
 
 For each internship -
 
-- Stipend: 19k
-- Duration: 1 Month
+- Stipend: depends (max 19K INR)
+- Duration: 1 Month (expandable)
 - Location: AoE/Home/Remote
 - Vacancies: Multiple
 
