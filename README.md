@@ -27,7 +27,6 @@ I would only be available for Research Interns and Technical Blogger Intern.
 
 Tester intern should test the tickets and code submitted by the interns. You should write test case as well. 
 
-
 # Code Reviewers Internship
 
 You can apply as an intern who would do code reviews. I am mostly on writing tickets and plan. Code interns would submit code and you should review the code. Intern Code Reviewers would be assigned per project. You can work on writing code for a project and can be intern code review for more project. You should know the technology that the intern is submitting the code in. No extra stipend if you are reviewing code. 
@@ -45,14 +44,6 @@ Any or all of these
 - Seaborn
 - tableau
 
-Duration - one month.
-
-Stipend - 19k, negotiable. 
-
-Vacancies - Multiple
-
-Location - AoE/Home/Remote
-
 If interested, please get on a call https://calendly.com/tapaswenipathak
 
 # Research Internship
@@ -62,31 +53,10 @@ I will only be focusing on writing
 I am in dire need of research interns.
 Pitching is my work. If you work w/ me, you would be the co-writer.
 
-Duration - one month.
-
-Stipend - 19k, negotiable.
-
-Vacancies - Multiple
-
-Location - AoE/Home/Remote
-
 Tasks/Work is listed in https://github.com/alice-sieve/Research-Internship
 Reading list for interns https://github.com/alice-sieve/Interns-Reading-Material
 
 If interested, please get on a call https://calendly.com/tapaswenipathak
-
-# Batches
-
-The initial interns round having interns per internship type will work from Sunday w/ me. Please keep the calendars open on Sunday AoE for timeline setting. Intern per round will get lesser stipend extra span than who join early, so applicants should focus on completing any 9 tasks asap. I won't be doing any internship meetings after Monday. I will upload a video, you can watch, know what you should be doing, open a GitHub ticket if you have any question. Intern can work w/ me in multiple internships.
-
-This rounds interns
-
-- @Armorer96
-- @prondubuisi
-- @sakshivij
-- @sujaykumarreddy
-
-Their [timelines](https://github.com/tapaswenipathak/Timelines).
 
 # Repository information
 
@@ -131,80 +101,18 @@ These are strict timelines that I w/ you will be adhering. No focusing on when I
 - https://github.com/tapaswenipathak/Internship/issues/21 - Closed on 1/6/19.
 - https://github.com/tapaswenipathak/Internship/issues/52 - Closed on 1/7/19.
 
-# Co-Photo Walker
-
-I am doing few photo walks this year in listed places/countries; my photography genre is chromatic, documentary, fine art, flora, macro, monochrome, portraits and street. If you are interested in joining let me know. I mostly have CFPs accepted in these regions or a speaker in univerisities so you would might adhere w/ my schedule. I will let you know the itinerary beforehand if you join me.
-
-- AF
-- PK
-- KP
-- ZA
-- South America 
-
-# Technical Blogger Intern
-
-I am hiring technical blogger intern, you would work on my blog writing blog posts. I would give you the text and material, you should properly format and write it on my blog post. Stipend would be 9K for writing atleast 1900 blog post. Total blog post count is around 19000.
-
-Blog - https://tapaswenipathak.blog/
-
-Ticket - https://github.com/tapaswenipathak/Internship/issues/61
 
 # Social Media Intern
 
 You would be handling social media channels. If you are creative, entertaining, funny, write exhilirating tweets/posts join as social media intern! :boom:
 
-Location - AoE/Home
-
-# GitPay
-
-- https://gitpay.me/#/task/217
-- https://gitpay.me/#/task/218
-- https://gitpay.me/#/task/219
-- https://gitpay.me/#/task/220
-- https://gitpay.me/#/task/224
-- https://gitpay.me/#/task/225
-
-# BountySource
-
-- https://www.bountysource.com/issues/74352659-blogging
-- https://www.bountysource.com/issues/74432476-explore-https-aws-amazon-com-health-genomics
-- https://www.bountysource.com/issues/74431252-design-tasks
-- https://www.bountysource.com/issues/74432491-explore-https-aws-amazon-com-hpc
-- https://www.bountysource.com/issues/74974628-linux-kernel-running-api-grep-commands
-- https://www.bountysource.com/issues/74978281-git-sever-deploy
-
-# Paid Open Source Task
-
-- https://github.com/alice-sieve/Non-Tech-Tasks/issues/1
-- https://github.com/tapaswenipathak/Bot-list/issues/4
-- https://github.com/tapaswenipathak/JHEPC-19/issues/18
-- https://github.com/tapaswenipathak/JHEPC-19/issues/19
-- https://github.com/tapaswenipathak/TheLesserNumber/issues/33
-- https://github.com/tapaswenipathak/Internship-project-tasks/issues/35
-- https://github.com/tapaswenipathak/Internship-project-tasks/issues/38
-
 # Data Interns
 
 The data intern will work on collecting data on these topics from the internet. If you know any programming language, API, parsing, scraping, great, if no, manual. The data you collect will be used in https://github.com/tapaswenipathak/Internship/issues/52. You will given a stipend. I won't be helping you in any data collection task. 
 
-
 # Open Source Internship
 
-
-## Internship Information
-
-Duration - one month.
-
-Stipend - 19k, negotiable.
-
-Vacancies - Multiple
-
-Location - AoE/Home
-
 Project list - https://github.com/tapaswenipathak/Internship/issues
-
-## Job postings
-
 
 ## During Interview / Selection Phase
 
@@ -314,36 +222,6 @@ Please set up the call if you can join the call, no setting the call at odd sche
 
 *The tasks would only be shared w/ the selected intern*.
 
-## Campus Ambassador
-
-If you get hired + if you are a campus ambassador you will get 9% increase in the stipend.
-
-Campus ambassador should write the information available in this repository in the DLs/mailing list of their colleges/universities.
-
-I have lots of goodies from different conferences, events, meetups, competitions, mentorship programs, that I don't use; diaries, pens, computer stickers, bags, computer accessories, just let me know.
-
-## Campus Ambassador post
-
-If you are campus ambassador please write the information as
-
-> Hi folks,
-
-> Tapasweni Pathak have multiple internship vacancies available -
-
-> - Open source interns
-> - Field interns
-> - Research interns
-> - Django intern
-> - University ambassadors
-
-> More information is present in internship repository [1]. If you
-are interested in any internship, you can schedule a call using
-https://calendly.com/tapaswenipathak.
-
-> [1] https://github.com/tapaswenipathak/Internship
-
-
-
 ## Work phase
 
 - Follow the timeline you create, work w/ @tapaswenipathak if you need anything, she
@@ -366,17 +244,3 @@ You should know the local language, should be decent in talking, energetic, fear
 You would be collecting information from police stations, courts, NGOs, restricted areas, villages. Every intern per locality assigned information collected would be given a 9k stipend, negotiable. You would be remibursed for cycle commute. If you like travelling in remote areas in your city, I will be funding the travel as well. Any Indian government permission required would be on me.
 
 I am hiring people from remote areas, please help me in reaching out people who live in remote areas by letting the people you know, know.
-
-
-# Django Internship
-
-Duration - one month.
-
-Stipend - 19k, negotiable.
-
-Vacancies - Multiple
-
-Location - AoE/Home
-
-All the internships are AoE/Remote, no sponsoring of work visas.
-Please no emails, no resume. Get on a call, close any 9 tickets, get on call writing the timeline.
