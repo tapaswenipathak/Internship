@@ -1,4 +1,4 @@
-If interested in any of the internships, submit application using https://github.com/tapaswenipathak/Internship#submitting-applicationCalls and then book a slot using https://calendly.com/tapaswenipathak. 
+If interested in any of the internships, submit application using https://github.com/tapaswenipathak/Internship#submitting-application and then book a slot using https://calendly.com/tapaswenipathak. 
 
 **Make sure you are present in the meeting on time**, feel free cancelling or rescheduling, make sure you do it on time.
 
@@ -232,8 +232,6 @@ I have listed few internship projects as [tickets](https://github.com/tapaswenip
 
 
 # Field Interns
-
-Location - AoE/Home
 
 I am hiring field interns. 
 
