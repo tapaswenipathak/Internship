@@ -1,6 +1,4 @@
-Calls worked better, if you are interested in any of these internship please book a slot using https://calendly.com/tapaswenipathak. 
-
-Better and saves time, if you find the information in https://github.com/tapaswenipathak/Internship#submitting-application. Just do the listed things and I will call you if you are in as an intern. If you have any questions, feel free mailing me or setting a call. I have added a YouTube video describing the things I have written as well.
+If interested in any of the internships, submit application using https://github.com/tapaswenipathak/Internship#submitting-applicationCalls and then book a slot using https://calendly.com/tapaswenipathak. 
 
 **Make sure you are present in the meeting on time**, feel free cancelling or rescheduling, make sure you do it on time.
 
