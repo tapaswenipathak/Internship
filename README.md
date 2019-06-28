@@ -9,13 +9,9 @@ Better and saves time, if you find the information in https://github.com/tapaswe
 - [Code Reviewers Internship](#code-reviewers-internship)
 - [Data Visualisation Internship](#data-visualisation-internship)
 - [Research Internship](#research-internship)
-- [Technical Blogger Intern](#technical-blogger-intern)
 - [Social Media Intern](#social-media-intern)
-- [Data Interns](#data-interns)
 - [Open Source Internship](#open-source-internship)
-- [Campus Ambassador](#campus-ambassador)
 - [field-interns](#field-interns)
-- [Django Internship](#django-internship)
 - [Tester Internship](#tester-internship)
 
 For each internship -
