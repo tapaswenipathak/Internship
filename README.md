@@ -102,7 +102,7 @@ These are strict timelines that I w/ you will be adhering. No focusing on when I
 
 # Social Media Intern
 
-You would be handling social media channels. If you are creative, entertaining, funny, write exhilirating tweets/posts join as social media intern! :boom:
+You would be handling social media channels. If you are creative, entertaining, funny, write exhilarating tweets/posts join as social media intern! :boom:
 
 # Data Interns
 
