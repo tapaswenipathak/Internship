@@ -11,6 +11,7 @@ If interested in any of the internships, submit application using https://github
 - [Open Source Internship](#open-source-internship)
 - [field-interns](#field-interns)
 - [Tester Internship](#tester-internship)
+- [Technical Writer](#technical-writer)
 
 For each internship -
 
@@ -20,6 +21,15 @@ For each internship -
 - Vacancies: Multiple
 
 I would only be available for Research Interns and Technical Blogger Intern.
+
+# Technical Writer
+
+You would write technical paper, manuscripts as an intern. You should be knowing
+
+- Latex
+- .bib
+- Markdown
+- .rst
 
 # Tester Internship
 
