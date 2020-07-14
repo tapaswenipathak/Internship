@@ -1,0 +1,86 @@
+
+
+
+Everyone always talks about the lack of women in tech—and I can't argue with the statistics. But it doesn’t have to stay that way! These days, there are more coding-for-women resources than ever to help women break into the technology industry.
+Let's explore some of the awesome places where women and girls can learn to code (oftentimes at little or no cost!).
+The following list includes 21 organizations in the US (as well as overseas) that teach coding for women and girls.
+It's broken down into three sections: intensive coding bootcamps for women, coding classes and workshops for women, and coding for women and girls under 18.
+like:
+1. Ada Developers Academy
+
+2. Hackbright Academy
+
+3. Skillcrush
+
+4. 23 Code Street
+
+5. Codebar.io
+
+6. Code First: Girls
+
+7. CodeChix
+
+8. Girl Develop It (GDI)
+
+9. Ladies Learning Code
+
+10. Moms Can: Code
+
+11. MotherCoders
+
+12. PyLadies
+
+13. Rails Girls
+
+14. RailsBridge
+
+15. Women Who Code
+
+16. Alexa Café
+
+17. App Camp For Girls
+
+18. Black Girls Code
+
+19. Girls Learning Code
+
+20. Girls Who Code (GWC)
+
+21. TechGirlz
+
+
+Many coding bootcamps provide scholarships for self-identifying women to cover all or part of tuition and living expenses. We’re passionate about getting more women into tech and have partnered with organizations such as Women Who Code, Girl Develop It, Lesbians Who Tech, and Fairygodboss.
+
+Currently we offer scholarships to self-identifying women who enroll in our Web Development Bootcamp. This includes a $600 scholarship for women for our Flexible Web Development Bootcamp and a $1200 scholarship for women for our Full-time Web Development Bootcamp.
+
+Below is a comprehensive list of other bootcamps that currently provide scholarships for women and the specifics about each.
+
+Bitmaker Labs (Toronto, Canada): They offer a Web Development course and a User Experience and Interface Design course. Read about their Grace Hopper Scholarship for Women in Computing.
+
+Codeup (San Antonio, TX): They offer classes on the LAMP stack (Linux/Apache/MySQL/PHP) and two women scholarships per Full-Stack program at $5,000 off the full program tuition.
+
+Dev Bootcamp (New York, Chicago, San Francisco): Among many other web development languages you will learn Ruby on Rails! They currently offer a $1,500 scholarship for all women (and veterans!) who attend.
+
+DevPoint Labs (Salt Lake City, Las Vegas): DevPoint Labs currently has two different bootcamps, Web Development and iOS and they offer the Hopper Opportunity Scholarship which includes two female scholarship for 50% off of tuition.
+
+Flatiron School (New York): Flatiron School has teamed up with Women Who Code to offer 1 full scholarship ($12,000 value) and 15 partial scholarships (up to $3,000 each) for Flatiron School’s Online Web Developer Program.
+
+Fullstack Academy (New York): Fullstack Academy currently offers the Ada Lovelace Scholarship which contributes $1,000 to any women who attends their full MEAN stack bootcamp!
+
+General Assembly (London, Sydney, Boston, San Francisco, New York, Hong Kong, Los Angeles): General Assembly currently offers a scholarship via their Opportunity Fund. To be considered for Opportunity Fund, a student must be accepted to a full-time on-campus immersive program, the part-time online HTML, CSS & Web Design course, or the part-time online Data Analysis course.
+
+Hackbright Academy females-only bootcamp (San Francisco): This uniquely female-only bootcamp currently focuses on teaching Python and they provide a number of scholarships including a Facebook Diversity Full Scholarship and New Relic Partial Scholarships.
+
+The Recurse Center free (New York): The infamous “a writers retreat for programmers,” the Recurse Center doesn’t teach a specific program but gives its student the opportunity to work on a project of their choosing for a 12 weeks. There are need based grants for living expenses that women can apply for.
+
+Ironhack (Miami, Madrid, Barcelona): Currently offer Web Development and iOS and there is a 1000 € EUR scholarship for women in Spain and $1,000 USD in the US.
+
+Launch Academy (Boston): Launch Academy currently teaches Ruby and offers a rolling $500 scholarships for their Boston program for women and underrepresented minorities in tech.
+
+Makers Academy (London): Makers Academy teaches Ruby on Rails and currently offers a £500 scholarship for all women.
+
+Metis (New York, Boston): A Ruby on Rails in-person bootcamp staffed and curated by thoughbot developers guided by Kaplan’s education metrics. Women are eligible to receive a $3,000 scholarship toward their Metis Data Science Bootcamp tuition.
+
+Mobile Makers (Chicago): Mobile Makers offers a $2,500 Mobile Makers Diversity Scholarship for their iOS bootcamp to exceptional candidates from groups underrepresented in the software engineering field. You may qualify if you are female, a US military veteran and/or are part of an underrepresented ethnic minority.
+
+Thinkful (remote): Thinkful is an online coding bootcamp where students learn to code with 1-on-1 mentorship and are guaranteed a job as a programmer upon graduation. We currently offer a $600 women’s scholarship for our Flexible Web Development Bootcamp and a $1200 women’s scholarships for our Full-time Web Development Bootcamp.

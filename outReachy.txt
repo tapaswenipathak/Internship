@@ -1,0 +1,16 @@
+Outreachy is open to applicants around the world. You will need to meet the following requirements:
+
+You are or will be 18 years of age or older by May 20, 2019
+You have not previously participated in an Outreachy, Outreach Program for Women, or Google Summer of Code internship.
+ People who participated as an intern for Google Summer of Code are not eligible for Outreachy.
+ All Google Summer of Code participants are ineligible for Outreachy, including people who did not 
+successfully finish their GSoC internship.
+You are available for a full-time, 40 hours a week internship from May 20, 2019 to Aug. 20, 2019.
+Outreachy is open to both students and people who are not students. If you are a student of a school in the 
+Northern Hemisphere, you will only be eligible for the May to August round. If you are a student of a school in
+ the Southern Hemisphere, you will only be eligible for the December to March round.
+ If your school is near the equator, you may apply to any round.
+ All students must have at least 49 consecutive days free from full-time commitments. 
+If you are completing your last term for your degree, you may be eligible, and we encourage you to submit an initial application.
+Outreachy internships are full-time 40-hour a week internships. Applicants who have part-time or contracting jobs are welcome to apply, 
+but they must meet additional requirements.

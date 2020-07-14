@@ -1,0 +1,7 @@
+Eligiblity Criteria for RGsoc:
+All people with non-binary gender identities or who identify as women (transgender or cisgender)
+ are welcome to participate in 2019. While we’re not doing an application or submission process this year,
+ our goal is still to support and encourage underrepresented people in open source.
+ Aside from this, we don’t have any hard requirement for this year’s program, as it’s voluntary, 
+self-paced, and flexible based on your schedule. You can even participate without a teammate!
+You do not have to be a student at a University to participate, and there are certainly no degree or age limitations.
